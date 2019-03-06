@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiLanguagePackage</string>
+
+    <string name="main_activity">最初のページ、こんにちは世界 From xml</string>
+    <string name="click_go">クリックしてジャンプ From xml</string>
+    <string name="second_activity">2ページ目、私は変換する必要があるテキストです From xml</string>
+</resources>

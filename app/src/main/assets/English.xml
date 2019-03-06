@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiLanguagePackage</string>
+
+    <string name="main_activity">First page,hello world From xml</string>
+    <string name="click_go">click jump From xml</string>
+    <string name="second_activity">Second page,I'm the word that needs to be converted From xml</string>
+</resources>
